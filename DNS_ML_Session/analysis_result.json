@@ -1,0 +1,121 @@
+{
+    "categories": [
+        {
+            "name": "people_group",
+            "score": 0.33203125
+        },
+        {
+            "name": "people_many",
+            "score": 0.50390625
+        }
+    ],
+    "color": {
+        "dominantColorForeground": "White",
+        "dominantColorBackground": "White",
+        "dominantColors": [
+            "White"
+        ],
+        "accentColor": "1A867C",
+        "isBwImg": false,
+        "isBWImg": false
+    },
+    "description": {
+        "tags": [
+            "person",
+            "table",
+            "indoor",
+            "sitting",
+            "room",
+            "family"
+        ],
+        "captions": [
+            {
+                "text": "a teacher teaching her students",
+                "confidence": 0.48052123188972473
+            }
+        ]
+    },
+    "objects": [
+        {
+            "rectangle": {
+                "x": 2722,
+                "y": 319,
+                "w": 158,
+                "h": 375
+            },
+            "object": "television",
+            "confidence": 0.523,
+            "parent": {
+                "object": "display",
+                "confidence": 0.531
+            }
+        },
+        {
+            "rectangle": {
+                "x": 1587,
+                "y": 166,
+                "w": 535,
+                "h": 1018
+            },
+            "object": "person",
+            "confidence": 0.911
+        },
+        {
+            "rectangle": {
+                "x": 1117,
+                "y": 509,
+                "w": 373,
+                "h": 607
+            },
+            "object": "person",
+            "confidence": 0.836
+        },
+        {
+            "rectangle": {
+                "x": 1895,
+                "y": 765,
+                "w": 508,
+                "h": 496
+            },
+            "object": "person",
+            "confidence": 0.782
+        },
+        {
+            "rectangle": {
+                "x": 84,
+                "y": 776,
+                "w": 534,
+                "h": 780
+            },
+            "object": "person",
+            "confidence": 0.845
+        },
+        {
+            "rectangle": {
+                "x": 346,
+                "y": 651,
+                "w": 1095,
+                "h": 953
+            },
+            "object": "person",
+            "confidence": 0.876
+        },
+        {
+            "rectangle": {
+                "x": 1882,
+                "y": 718,
+                "w": 976,
+                "h": 806
+            },
+            "object": "person",
+            "confidence": 0.86
+        }
+    ],
+    "requestId": "bc2cf37e-fb52-44a5-bf0e-7be225f3f744",
+    "metadata": {
+        "height": 1620,
+        "width": 2880,
+        "format": "Jpeg"
+    },
+    "modelVersion": "2021-05-01"
+}
